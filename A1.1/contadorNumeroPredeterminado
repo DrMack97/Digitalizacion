@@ -1,0 +1,4 @@
+predeterminado= int(input("intruzca un numero y contare hasta alcanzarlo"))
+
+for i in range(1, predeterminado+1):
+    print(f"Cuenta: {i}")

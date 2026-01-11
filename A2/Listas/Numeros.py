@@ -62,10 +62,10 @@ sorted_list_desc = sorted(list_num4, reverse=True)
 print("Lista ordenada de mayor a menor:", sorted_list_desc)
 
 #Implementa amb l’algoritme d’ordenació “Selection Sort”
------------------------------------------------------
+
 
 #Implementa con el algoritmo de ordenación “Insertion Sort"
-------------------------------------------------------
+
 
 
 
